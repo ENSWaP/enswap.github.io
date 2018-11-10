@@ -1,0 +1,11 @@
+main:
+  - title: "Conference"
+    url: /conferences/2019-berlin/
+  - title: "About Us"
+    url: /about/
+  - title: "Archives"
+    url: /archives/
+  - title: "Resources"
+    url: /resources/
+  - title: "Contact Us"
+    url: /contact-us/

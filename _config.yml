@@ -1,0 +1,77 @@
+url: https://enswap.github.io
+name: 'ENSWaP - European Network of Steiner Waldorf Parents'
+title: "🏠 ENSWaP"
+description: Building bridges
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+#plugins:
+#  - jekyll-responsive-image
+
+responsive_image:
+  template: _includes/srcset-resized-fallback.html
+  default_quality: 90
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+  auto_rotate: true
+  strip: true
+  base_path: assets
+  output_path_format: assets/%{dirname}/%{width}/%{basename}
+  save_to_source: true
+  cache: false
+
+social:
+  type: Organization
+  name: ENSWaP
+  links:
+    - "https://facebook.com/enswap.org"
+
+collections:
+  conferences:
+    output: true
+    permalink: /conferences/:name/
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://facebook.com/enswap.org"
+    - label: "Email"
+      icon: "fas fa-envelope-square"
+      url: "mailto:enswap@enswap.org"
+    - label: "Subscribe to our mailing list"
+      icon: "fas fa-mail-bulk"
+      url: "http://waldorfparents.us7.list-manage.com/subscribe?u=4b93fa54d71707efff12a88a0&id=c7254c3e2d"
+
+include: ["_pages"]
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: "conferences"
+    values:
+      layout: single
+
+footer_scripts:
+  - /assets/js/main.min.js
+  - https://use.fontawesome.com/releases/v5.5.0/js/all.js
