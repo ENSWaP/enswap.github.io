@@ -5,7 +5,10 @@ description: Building bridges
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-#plugins:
+plugins:
+  - jekyll-include-cache
+
+  #plugins:
 #  - jekyll-responsive-image
 
 responsive_image:
