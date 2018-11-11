@@ -2,28 +2,12 @@ url: https://enswap.github.io
 name: 'ENSWaP - European Network of Steiner Waldorf Parents'
 title: "🏠 ENSWaP"
 description: Building bridges
+theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 plugins:
   - jekyll-include-cache
-
-  #plugins:
-#  - jekyll-responsive-image
-
-responsive_image:
-  template: _includes/srcset-resized-fallback.html
-  default_quality: 90
-  sizes:
-    - width: 480
-    - width: 800
-    - width: 1400
-  auto_rotate: true
-  strip: true
-  base_path: assets
-  output_path_format: assets/%{dirname}/%{width}/%{basename}
-  save_to_source: true
-  cache: false
 
 social:
   type: Organization

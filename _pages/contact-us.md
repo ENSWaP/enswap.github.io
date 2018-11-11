@@ -1,10 +1,6 @@
 ---
-id: 163
 title: Contact Us
-date: 2008-09-11T19:22:18+00:00
-author: editor
-layout: page
-guid: http://dev.danphilibin.com/wordpress/?page_id=41
+date: 2018-11-11T19:22:18+00:00
 layout: single
 permalink: /contact-us/
 ---

@@ -1,9 +1,6 @@
 ---
-id: 17
 title: About Us
-date: 2016-07-06T15:04:54+00:00
-author: editor
-layout: page
+date: 2018-11-11T15:04:54+00:00
 layout: single
 permalink: /about/
 ---

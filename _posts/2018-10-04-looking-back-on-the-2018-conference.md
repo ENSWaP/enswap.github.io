@@ -1,5 +1,4 @@
 ---
-id: 652
 title: Looking Back On The 2018 Conference
 date: 2018-10-04T10:12:48+00:00
 author: Cecília Skarka
@@ -11,6 +10,27 @@ header:
   image: /assets/posts/2018/10/looking-back-on-the-2018-conference/header.jpg
 categories:
   - Uncategorized
+gallery:
+  - url: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-1.jpg
+    image_path: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-1.jpg
+    alt: ""
+    title: ""
+  - url: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-2.jpg
+    image_path: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-2.jpg
+    alt: ""
+    title: ""
+  - url: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-3.jpg
+    image_path: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-3.jpg
+    alt: ""
+    title: ""
+  - url: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-4.jpg
+    image_path: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-4.jpg
+    alt: ""
+    title: ""
+  - url: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-5.jpg
+    image_path: /assets/posts/2018/10/looking-back-on-the-2018-conference/school-5.jpg
+    alt: ""
+    title: ""
 ---
 In April 2018, we, Waldorf parents from across Europe gathered together in Bologna, Italy, to discuss one of the greatest issues of our time: digital media and technology. 
 
@@ -49,3 +69,6 @@ Julia is an ECHT DABEI coach (<http://www.echt-dabei.de/>), working in preventio
 {% include video id="iAj7bDg06yM" provider="youtube" %}
 
 Julia also shared with us a little booklet which provides parents with tips and tricks for dealing with digital media in everyday family life. Check it out at <https://www.medienratgeber-fuer-eltern.de/pdf/medienratgeber-englisch.pdf>
+
+
+{% include gallery class="half" %}

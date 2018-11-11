@@ -1,8 +1,6 @@
 ---
-id: 160
 title: Resources
-date: 2008-09-11T19:22:03+00:00
-author: editor
+date: 2018-11-11T19:22:03+00:00
 layout: single
 permalink: /resources/
 ---

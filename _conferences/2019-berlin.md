@@ -1,6 +1,6 @@
 ---
 title: ENSWaP Conference 2019
-date: 2018-10-29T10:09:51+00:00
+date: 2018-11-11T13:00:00+00:00
 author: Gergely Erdélyi
 excerpt: Join us for the annual ENSWaP conference in Berlin, on the 17-19th of May, 2019.
 header:
@@ -8,18 +8,21 @@ header:
 categories:
   - Conferences
 ---
-<b>„100 Years of Waldorf Pedagogy–Preserving Ashes or Lighting Fires?”</b><br>
+<b>„100 Years of Waldorf Pedagogy &mdash; Preserving Ashes or Lighting Fires?”</b><br>
 <b>May 17-19th, 2017</b><br>
 <b>Berlin, Germany</b>
 
 
+[Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
+
+
 ### Speakers
 
-![Christopher Clouder](/assets/conferences/2019-berlin/christopher_clouder.jpg){: .align-left}
+<a name="Christopher"></a>![Christopher Clouder](/assets/conferences/2019-berlin/christopher_clouder.jpg){: .align-left}
 **Christopher Clouder**<br>
-“100 Years of Waldorf Pedagogy – What next?”
+“100 Years of Waldorf Pedagogy &mdash; What next?”
 
-<p id="cristopher" style="clear:both"></p>
+<p style="clear:both">
 Christopher Clouder FRSA is a freelance speaker, writer and consultant on questions of childhood,
 innovation in education, cultural evolution and creativity. He was the founding director of the 
 Botin Platform for Innovation in Education and led research into Social Emotional Education and
@@ -28,11 +31,11 @@ Learning for Well-being Community and the International Forum for Steiner Educat
 From 1989 to 2012 he was the founding CEO of the European Council for Steiner Waldorf Education.
 </p>
 
-![Constanza Kaliks](/assets/conferences/2019-berlin/constanza_kaliks.jpg){: .align-left}
+<a name="Constanza"></a>![Constanza Kaliks](/assets/conferences/2019-berlin/constanza_kaliks.jpg){: .align-left}
 **Constanza Kaliks**<br>
 “The reality of becoming as a foundation for Education” 
 
-<p id="constanza" style="clear:both">
+<p style="clear:both">
 <b>The human being in becoming as a starting point and goal for educational processes - perspectives
 about knowledge as participation.</b><br>
 
@@ -45,11 +48,11 @@ Since January 2012, Constanza has been the Leader of the Youth Section at the Go
 recently nominated to the Vorstand of the Goetheanum.
 </p>
 
-![Nana Göbel](/assets/conferences/2019-berlin/nana_gobel.jpg){: .align-left}
-**Nana Göbel**<br>
-“100 years of Waldorf pedagogical movement worldwide – a historical sketch and an outlook to future challenges”
+<a name="Nana"></a>![Nana Goebel](/assets/conferences/2019-berlin/nana_goebel.jpg){: .align-left}
+**Nana Goebel**<br>
+“100 years of Waldorf pedagogical movement worldwide &mdash; a historical sketch and an outlook to future challenges”
 
-<p id="nana" style="clear:both"></p>
+<p style="clear:both">
 1955, Study of Classical Archaeology<br>
 1974-80, 1976 Co-Founder of Freunde der Erziehungskunst,<br>
 since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehungskunst,<br>
@@ -83,7 +86,7 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
     </tr>
     <tr>
       <td>19:00</td>
-      <td>Address of welcome and opening lecture with Christopher Clouder</td>
+      <td>Address of welcome and <a href="#Christopher">opening lecture with Christopher Clouder</a></td>
     </tr>
     <tr>
       <td>20:15</td>
@@ -110,7 +113,7 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
     </tr>
     <tr>
       <td>09:30</td>
-      <td>Lecture with Constanza Kaliks</td>
+      <td><a href="#Constanza">Lecture by Constanza Kaliks</a></td>
     </tr>
     <tr>
       <td>10:30</td>
@@ -165,7 +168,7 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
     </tr>
     <tr>
       <td>09:30</td>
-      <td>Lecture with Nana Goebel</td>
+      <td><a href="#Nana">Lecture with Nana Goebel</a></td>
     </tr>
     <tr>
       <td>10:30</td>
@@ -190,5 +193,17 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
 
 The conference will take place at <a href="http://www.waldorfschule-mitte.de/"><b>Freie Waldorfschule Berlin Mitte</b></a>.
 
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.411241774234!2d13.402651315468182!3d52.52599324353805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x416523d6d1b0efab%3A0xc3c6737eaf884d88!2sFreie+Waldorfschule+Berlin-Mitte!5e0!3m2!1sen!2shu!4v1541851405535" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Accomodation
+
+#### Hotel
+
+We have arranged an allotment for [Motel One](https://www.motel-one.com/en/), which is in walking distance to the conference venue. Please use [this form](/assets/conferences/2019-berlin/Motel One Reservation Form.pdf) if you wish to stay there. Notice that the rooms are reserved for conference attendees only until 5th April 2019!
+
+#### Staying with families
+
+If you’d like to stay with a family, contact [ellen@enswap.org](mailto:ellen@enswap.org). There are only limited places available.
+
+
+[Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
