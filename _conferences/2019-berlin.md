@@ -4,6 +4,7 @@ date: 2018-11-11T13:00:00+00:00
 author: Gergely Erdélyi
 excerpt: Join us for the annual ENSWaP conference in Berlin, on the 17-19th of May, 2019.
 header:
+  teaser: /assets/conferences/2019-berlin/brandenburg_gate_evening.jpg
   image: /assets/conferences/2019-berlin/brandenburg_gate_evening.jpg
 categories:
   - Conferences
