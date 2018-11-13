@@ -191,7 +191,7 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
 
 ### Venue
 
-The conference will take place at <a href="http://www.waldorfschule-mitte.de/"><b>Freie Waldorfschule Berlin Mitte</b></a>.
+The conference will take place at <b>Freie Waldorfschule Berlin Mitte</b>.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.411241774234!2d13.402651315468182!3d52.52599324353805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x416523d6d1b0efab%3A0xc3c6737eaf884d88!2sFreie+Waldorfschule+Berlin-Mitte!5e0!3m2!1sen!2shu!4v1541851405535" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
