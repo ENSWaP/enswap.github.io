@@ -205,5 +205,8 @@ We have arranged an allotment for [Motel One](https://www.motel-one.com/en/), wh
 
 If you’d like to stay with a family, contact [ellen@enswap.org](mailto:ellen@enswap.org). There are only limited places available.
 
+#### Solidarity Fund
+
+If costs are the only thing holding you back from registering, you can apply for financial and/or organisational help. Please fill in [the application form](/assets/conferences/2019-berlin/ENSWaP_Application_Form.pdf) and send it to [ellen@enswap.org](mailto:ellen@enswap.org).
 
 [Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
