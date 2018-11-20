@@ -161,8 +161,8 @@ From 1989 to 2012 he was the founding CEO of the European Council for Steiner Wa
 **“The reality of becoming as a foundation for Education”** 
 
 <p style="clear:both">
-<b>The human being in becoming as a starting point and goal for educational processes - perspectives
-about knowledge as participation.</b><br>
+The human being in becoming as a starting point and goal for educational processes - perspectives
+about knowledge as participation.
 
 Born in 1967 in Chile, Constanza Kaliks grew up and lived mostly in Brasil.
 Constanza completed her studies of Mathematics in São Paulo, and went on to be mathematics teacher
