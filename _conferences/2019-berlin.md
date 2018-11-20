@@ -16,56 +16,6 @@ categories:
 
 [Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
 
-
-### Speakers
-
-<a name="Christopher"></a>![Christopher Clouder](/assets/conferences/2019-berlin/christopher_clouder.jpg){: .align-left}
-**Christopher Clouder**<br>
-“100 Years of Waldorf Pedagogy &mdash; What next?”
-
-<p style="clear:both">
-Christopher Clouder FRSA is a freelance speaker, writer and consultant on questions of childhood,
-innovation in education, cultural evolution and creativity. He was the founding director of the 
-Botin Platform for Innovation in Education and led research into Social Emotional Education and
-Creativity and the Arts. He is co-founder of the Alliance for Childhood, a member of the
-Learning for Well-being Community and the International Forum for Steiner Education. 
-From 1989 to 2012 he was the founding CEO of the European Council for Steiner Waldorf Education.
-</p>
-
-<a name="Constanza"></a>![Constanza Kaliks](/assets/conferences/2019-berlin/constanza_kaliks.jpg){: .align-left}
-**Constanza Kaliks**<br>
-“The reality of becoming as a foundation for Education” 
-
-<p style="clear:both">
-<b>The human being in becoming as a starting point and goal for educational processes - perspectives
-about knowledge as participation.</b><br>
-
-Born in 1967 in Chile, Constanza Kaliks grew up and lived mostly in Brasil.
-Constanza completed her studies of Mathematics in São Paulo, and went on to be mathematics teacher
-at the Escola Rudolf Steiner in São Paulo for 19 years. There she was also a teacher in the
-Waldorf Teacher training. Constanza has a Masters Degree in Education and recently completed her
-Ph.D on Nicolaus of Cuse. She is married with two children.
-Since January 2012, Constanza has been the Leader of the Youth Section at the Goetheanum and was
-recently nominated to the Vorstand of the Goetheanum.
-</p>
-
-<a name="Nana"></a>![Nana Goebel](/assets/conferences/2019-berlin/nana_goebel.jpg){: .align-left}
-**Nana Goebel**<br>
-“100 years of Waldorf pedagogical movement worldwide &mdash; a historical sketch and an outlook to future challenges”
-
-<p style="clear:both">
-1955, Study of Classical Archaeology<br>
-1974-80, 1976 Co-Founder of Freunde der Erziehungskunst,<br>
-since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehungskunst,<br>
-1987-96 Education-Officer at GLS Gemeinschaftsbank in Bochum (D),<br>
-1993-96 Board-Member of Gemeinnützige Treuhandstelle in Bochum (D),<br>
-1989 till 2011 Founding Board-Member of the European Forum for Freedom in Education,<br>
-1993–2006 Founding Board Member of Zauberstäbchen, Society for humanitarian Aid and help for children in Southeast Europe,<br>
-2003-08 General Secretary of the Anthroposophical Society in Germany,<br>
-2007 till today Board-Member of IAO (Internationale Assoziation Osteuropa),<br>
-2008 till today Member of the International Council of Waldorf-Steiner Education.
-</p>
-
 ### Programme
 
 #### Friday - May 17th
@@ -189,6 +139,56 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
     </tr>
   </tbody>
 </table>
+
+
+### Speakers
+
+<a name="Christopher"></a>![Christopher Clouder](/assets/conferences/2019-berlin/christopher_clouder.jpg){: .align-left}
+**Christopher Clouder**<br>
+“100 Years of Waldorf Pedagogy &mdash; What next?”
+
+<p style="clear:both">
+Christopher Clouder FRSA is a freelance speaker, writer and consultant on questions of childhood,
+innovation in education, cultural evolution and creativity. He was the founding director of the 
+Botin Platform for Innovation in Education and led research into Social Emotional Education and
+Creativity and the Arts. He is co-founder of the Alliance for Childhood, a member of the
+Learning for Well-being Community and the International Forum for Steiner Education. 
+From 1989 to 2012 he was the founding CEO of the European Council for Steiner Waldorf Education.
+</p>
+
+<a name="Constanza"></a>![Constanza Kaliks](/assets/conferences/2019-berlin/constanza_kaliks.jpg){: .align-left}
+**Constanza Kaliks**<br>
+“The reality of becoming as a foundation for Education” 
+
+<p style="clear:both">
+<b>The human being in becoming as a starting point and goal for educational processes - perspectives
+about knowledge as participation.</b><br>
+
+Born in 1967 in Chile, Constanza Kaliks grew up and lived mostly in Brasil.
+Constanza completed her studies of Mathematics in São Paulo, and went on to be mathematics teacher
+at the Escola Rudolf Steiner in São Paulo for 19 years. There she was also a teacher in the
+Waldorf Teacher training. Constanza has a Masters Degree in Education and recently completed her
+Ph.D on Nicolaus of Cuse. She is married with two children.
+Since January 2012, Constanza has been the Leader of the Youth Section at the Goetheanum and was
+recently nominated to the Vorstand of the Goetheanum.
+</p>
+
+<a name="Nana"></a>![Nana Goebel](/assets/conferences/2019-berlin/nana_goebel.jpg){: .align-left}
+**Nana Goebel**<br>
+“100 years of Waldorf pedagogical movement worldwide &mdash; a historical sketch and an outlook to future challenges”
+
+<p style="clear:both">
+1955, Study of Classical Archaeology<br>
+1974-80, 1976 Co-Founder of Freunde der Erziehungskunst,<br>
+since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehungskunst,<br>
+1987-96 Education-Officer at GLS Gemeinschaftsbank in Bochum (D),<br>
+1993-96 Board-Member of Gemeinnützige Treuhandstelle in Bochum (D),<br>
+1989 till 2011 Founding Board-Member of the European Forum for Freedom in Education,<br>
+1993–2006 Founding Board Member of Zauberstäbchen, Society for humanitarian Aid and help for children in Southeast Europe,<br>
+2003-08 General Secretary of the Anthroposophical Society in Germany,<br>
+2007 till today Board-Member of IAO (Internationale Assoziation Osteuropa),<br>
+2008 till today Member of the International Council of Waldorf-Steiner Education.
+</p>
 
 ### Venue
 
