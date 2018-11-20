@@ -145,7 +145,7 @@ categories:
 
 <a name="Christopher"></a>![Christopher Clouder](/assets/conferences/2019-berlin/christopher_clouder.jpg){: .align-left}
 **Christopher Clouder**<br>
-“100 Years of Waldorf Pedagogy &mdash; What next?”
+**“100 Years of Waldorf Pedagogy &mdash; What next?”**
 
 <p style="clear:both">
 Christopher Clouder FRSA is a freelance speaker, writer and consultant on questions of childhood,
@@ -158,7 +158,7 @@ From 1989 to 2012 he was the founding CEO of the European Council for Steiner Wa
 
 <a name="Constanza"></a>![Constanza Kaliks](/assets/conferences/2019-berlin/constanza_kaliks.jpg){: .align-left}
 **Constanza Kaliks**<br>
-“The reality of becoming as a foundation for Education” 
+**“The reality of becoming as a foundation for Education”** 
 
 <p style="clear:both">
 <b>The human being in becoming as a starting point and goal for educational processes - perspectives
@@ -175,7 +175,7 @@ recently nominated to the Vorstand of the Goetheanum.
 
 <a name="Nana"></a>![Nana Goebel](/assets/conferences/2019-berlin/nana_goebel.jpg){: .align-left}
 **Nana Goebel**<br>
-“100 years of Waldorf pedagogical movement worldwide &mdash; a historical sketch and an outlook to future challenges”
+**“100 years of Waldorf pedagogical movement worldwide &mdash; a historical sketch and an outlook to future challenges”**
 
 <p style="clear:both">
 1955, Study of Classical Archaeology<br>
