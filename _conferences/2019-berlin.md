@@ -16,6 +16,18 @@ categories:
 
 [Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
 
+According to Rudolf Steiner it is a natural thing that all processes unhealthy or healthy,
+are bound to die. Making a wholistic, spiritual approach to education and humanity for the
+sake of a sound society is fought by the forces of egotism and fear.
+What Steiner calls the “consciousness soul epoch” contains, however, an appeal for not just
+sitting around and waiting for the fraught situation to pass by but to take it as a challenge
+in order to wake up, realize and strengthen our creative and spiritual cores.
+
+The development of our school communities after 100 years deserves a caring and thorough look
+at what is left of the initial intentions, what is worth keeping and how we can help a phoenix
+grow from the ashes and create awareness of the tasks that lie ahead of us.
+
+
 ### Programme
 
 #### Friday - May 17th
