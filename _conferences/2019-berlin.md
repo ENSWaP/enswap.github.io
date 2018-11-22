@@ -10,7 +10,7 @@ categories:
   - Conferences
 ---
 <b>„100 Years of Waldorf Pedagogy &mdash; Preserving Ashes or Lighting Fires?”</b><br>
-<b>May 17-19th, 2017</b><br>
+<b>May 17-19th, 2019</b><br>
 <b>Berlin, Germany</b>
 
 
