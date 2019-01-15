@@ -31,6 +31,9 @@ footer:
     - label: "Subscribe to our mailing list"
       icon: "fas fa-mail-bulk"
       url: "http://waldorfparents.us7.list-manage.com/subscribe?u=4b93fa54d71707efff12a88a0&id=c7254c3e2d"
+    - label: "Privacy Policy"
+      icon: "fas fa-scroll"
+      url: "/privacy-policy/"
 
 include: ["_pages"]
 
