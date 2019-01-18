@@ -81,7 +81,7 @@ No. We do not use profiling and we do not use data for commercial purposes. We d
 ### Article 7
 Does ENSWaP transfer data outside the EU?
 
-Yes. Most of our servers are located in Norway. If a certain event is organized outside the EU, data will be transferred to the local organizers. However, as ENSWaP is a European network, our activity does not extend to other continents. We do not transfer data to the USA.
+We use cloud services (for example Google, GitHub and MailChimp) whose servers are located in EU and the United States of America. If a certain event is organized outside the EU, data will be transferred to the local organizers. However, as ENSWaP is a European network, our activity does not extend to other continents.
 
 ### Article 8
 What happens in case of an incident?
