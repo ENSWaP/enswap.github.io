@@ -93,3 +93,11 @@ What are the rights of the data subject?
 
 Rights of the data subject are contained in articles 15-20 of the GDPR. The GDPR is available [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679).
 
+### Article 10
+This article only enters into force if the United Kingdom leaves the EU without an international agreement between the EU and the United Kingdom that specifically regulates the rules on data protection and the minimum requirements on data transfer from the EU to United Kingdom (hereinafter: no-deal Brexit).
+
+In case of a no-deal Brexit the United Kingdom will be treated as a non-EU third country regarding data protection and the transfer of data as long as the European Commission does not adopt an adequacy decision according to Article 45. of the GDPR.
+
+If you sign up to any of the ENSWaP events organized in the United Kingdom or by volunteers located in the United Kingdom, your data will be transfered outside of the EU. You will be specifically reminded to this fact when you sign up. You cannot participate on the event in case you do not accept this data transfer.
+
+ENSWaP has a webpage and usually sends out newsletters in the English language and ENSWaP may ask native English speaker volunteers to proof-read the content of our webpage, our newsletters or the invitation to our events. During this process ENSWaP may send the contact information of the writer of the article to the volunteer proof-reading the text. This means that this contact data will be sent outside the EU. By submitting a document to be sent out in a newsletter or to be published on out website you accept this data transfer.
