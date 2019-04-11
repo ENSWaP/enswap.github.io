@@ -212,7 +212,7 @@ The conference will take place at <b>Freie Waldorfschule Berlin Mitte</b>.
 
 #### Hotel
 
-We have an arrangement with [Motel One](https://www.motel-one.com/en/), which is in walking distance to the conference venue. Please use [this form](/assets/conferences/2019-berlin/Motel One Reservation Form.pdf) if you wish to stay there. Notice that the rooms are reserved for conference attendees only until 5th April 2019!
+[Motel One](https://www.motel-one.com/en/) is in walking distance to the conference venue. We had a special arrangement with the hotel that expired on the 5th of April. If you would like to book a room now, please contact the hotel directly.
 
 #### Staying with families
 
