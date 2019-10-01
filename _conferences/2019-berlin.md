@@ -13,9 +13,6 @@ categories:
 <b>May 17-19th, 2019</b><br>
 <b>Berlin, Germany</b>
 
-
-[Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
-
 According to Rudolf Steiner it is a natural thing that all processes unhealthy or healthy,
 are bound to die. Making a wholistic, spiritual approach to education and humanity for the
 sake of a sound society is fought by the forces of egotism and fear.
@@ -207,19 +204,3 @@ since 1978 Board-Member and since 1996 Managing Director of Freunde der Erziehun
 The conference will take place at <b>Freie Waldorfschule Berlin Mitte</b>.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.411241774234!2d13.402651315468182!3d52.52599324353805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x416523d6d1b0efab%3A0xc3c6737eaf884d88!2sFreie+Waldorfschule+Berlin-Mitte!5e0!3m2!1sen!2shu!4v1541851405535" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-### Accomodation
-
-#### Hotel
-
-[Motel One](https://www.motel-one.com/en/) is in walking distance to the conference venue. We had a special arrangement with the hotel that expired on the 5th of April. If you would like to book a room now, please contact the hotel directly.
-
-#### Staying with families
-
-If you’d like to stay with a family, contact [ellen@enswap.org](mailto:ellen@enswap.org). There are only limited places available.
-
-#### Solidarity Fund
-
-If costs are the only thing holding you back from registering, you can apply for financial and/or organisational help. Please fill in [the application form](/assets/conferences/2019-berlin/ENSWaP_Application_Form.pdf) and send it to [ellen@enswap.org](mailto:ellen@enswap.org).
-
-[Reserve your spot now!](https://goo.gl/forms/20U5Ne7dfHJp0xsx1){: .btn .btn--warning .btn--large .text-center}
