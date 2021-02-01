@@ -5,7 +5,6 @@ header:
 permalink: /
 ---
 
-{% assign post = site.conferences | where:"title", 'ENSWaP Conference 2020' | first %}
 {% include archive-single.html %}
 
 {% for post in site.posts limit: 3 %}

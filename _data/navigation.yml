@@ -1,6 +1,4 @@
 main:
-  - title: "Conference"
-    url: /conferences/2020-kyiv/
   - title: "About Us"
     url: /about/
   - title: "Archives"
