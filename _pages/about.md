@@ -23,18 +23,3 @@ On our website we collect useful links and information for current or aspiring W
 ## The structure of ENSWaP
 
 ENSWaP is a network. One of its aims is to have at least one  representative from each European country. Furthermore, anyone willing to give the time and energy to work on strengthening the cooperation of Steiner Waldorf parents is welcome to join us.
-
-Within the network there is a coordinating core group. At this moment this is comprised of the parent representatives from Austria, Hungary, Norway and Germany:
-
-<li>
-  <a href="mailto:karin@enswap.org">Karin Daurer</a>
-</li>
-<li>
-  <a href="mailto:marti@enswap.org">Márti Domokos</a> (coordinator)
-</li>
-<li>
-  <a href="mailto:hilde@enswap.org">Hilde Lengali</a>
-</li>
-<li>
-  <a href="mailto:ellen@enswap.org">Ellen Niemann</a>
-</li>
