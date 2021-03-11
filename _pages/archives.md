@@ -5,16 +5,16 @@ header:
 permalink: /archives/
 ---
 
-<h1>Conferences</h1>
-
-{% for post in site.conferences %}
+<h1>Articles</h1>
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 <br>
 
-<h1>Articles</h1>
-{% for post in site.posts %}
+<h1>Conferences</h1>
+
+{% for post in site.conferences %}
   {% include archive-single.html %}
 {% endfor %}
 
