@@ -19,6 +19,4 @@ The ENSWaP Hour is an hour-long meeting we plan for 3-6 times a year, where we h
 
 Time: **2nd November 2022, 7 p.m. (CET)**
 
-[Register now!](http://tiny.cc/ENSWaPhour1){: .btn .btn--warning .btn--large .text-center}
-
 [Download the Flyer](/assets/posts/2022/10/the-enswap-hour/ENSWaP_Hour_3.pdf){: .btn .btn--info .btn--large .text-center}
