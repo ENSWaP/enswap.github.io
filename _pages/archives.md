@@ -5,7 +5,7 @@ header:
 permalink: /archives/
 ---
 
-<h1>Articles</h1>
+<h1>Posts</h1>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
