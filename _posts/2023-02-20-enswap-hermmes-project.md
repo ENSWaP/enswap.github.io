@@ -21,11 +21,12 @@ gallery:
     title: ""
 ---
 
-**Holistic Education, Resilience and Media Maturity in Educational Settings (HERMMES)**
+**HERMMES - Holistic Education, Resilience and Media Maturity in Educational Settings**
 
-In April 2022 fifteen partners in the field of education started HERMMES: a 3-year project on media education which focuses on age-appropriateness, development-orientation and media maturity. The goal of the HERMMES project is that at the end of their school career, pupils are media mature. They should be able to use the full range of analogue and digital media for their own education, participation in civil society and the labour market. In addition they should be able to sovereignly decide how much time to spend on media and related tools, for which purpose, and always with a conscious and critical approach to the content shared or consumed through media. 
+Parents, teachers and researchers working towards a development-oriented age-appropriate approach to ICT and media education
 
-ENSWaP's role in the project is to provide a parent's perspective and to help shape project outcomes with a holistic view.     
+On the 1st of April 2022 ENSWaP and its 10 partners embarked upon a 3‑year Erasmus+ project on media education. The goal of the HERMMES project is that at the end of their school career, pupils are media mature. They should be able to use the full range of analogue and digital media for their own education, participation in civil society and the labour market. In addition they should be able to sovereignly decide how much time to spend on digital tools, for which purpose, and always with a conscious and critical approach to the content shared or consumed through media. Thus age-appropriate and development-oriented media education only introduces digital technology in classrooms after children demonstrate media maturity and a high level of media literacy.
 
+Our partners are schools, universities, national-level, Europe- and world-wide educational and parents' organisations.  
 
-[More about HERMMES](https://ecswe.eu/hermmes/){: .btn .btn--info .btn--large .text-center}
+[More about HERMMES](https://hermmes.eu/){: .btn .btn--info .btn--large .text-center}
