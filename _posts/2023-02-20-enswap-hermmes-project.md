@@ -1,5 +1,5 @@
 ---
-title: ENSWaP is participanting in HERMMES project
+title: ENSWaP is participating in HERMMES project
 date: 2023-02-20T10::00+00:00
 author: Andrej Szolgay
 excerpt: 'HERMMES is an Erasmus+ co-funded project dedicated to providing teachers, parents and schools with guidelines and training for age-appropriate media education.'
@@ -29,4 +29,6 @@ On the 1st of April 2022 ENSWaP and its 10 partners embarked upon a 3‑year Era
 
 Our partners are schools, universities, national-level, Europe- and world-wide educational and parents' organisations.  
 
-[More about HERMMES](https://hermmes.eu/){: .btn .btn--info .btn--large .text-center}
+{% include gallery class="half" %}
+
+[More about HERMMES](https://ecswe.eu/hermmes/){: .btn .btn--info .btn--large .text-center}
