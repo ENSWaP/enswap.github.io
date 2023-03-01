@@ -16,8 +16,8 @@ categories:
 
 We are pleased to invite you to our upcoming conference on media maturity, where we will explore the challenges and opportunities that arise with the rise of digital media. Join us as we learn from experts, engage in thought-provoking discussions, and develop practical strategies to help our children navigate the complex world of media.
 
-<p><strong>Saturday, 29 April 2023</strong></p>
-<p>Libera Scuola Steiner Waldorf "Novalis", Via Rudolf Steiner 2, 4, 6 – San Vendemiano TV – Italy</p>
+<p><strong>Saturday, 29 April 2023</strong><br>
+Libera Scuola Steiner Waldorf "Novalis", Via Rudolf Steiner 2, 4, 6 – San Vendemiano TV – Italy</p>
 
 On Friday 28 April from 19.30 to 20.30 all registered participants are welcome to join the warm-up session at the same venue.
 
