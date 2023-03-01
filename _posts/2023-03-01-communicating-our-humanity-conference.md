@@ -3,7 +3,7 @@ title: Communicating Our Humanity - HERMMES conference in Italy
 date: 2023-03-01T10::00+00:00
 author: Andrej Szolgay
 excerpt: 'We are pleased to invite you to our upcoming conference on media maturity.'
-permalink: /2023/02/enswap-hermmes-project/
+permalink: /2023/03/communicating-our-humanity-hermmes-conference/
 layout: single
 header:
   teaser: /assets/posts/2023/03/HERMMES_conference_header-min.jpg
