@@ -31,4 +31,4 @@ Our partners are schools, universities, national-level, Europe- and world-wide e
 
 {% include gallery class="half" %}
 
-[More about HERMMES](https://ecswe.eu/hermmes/){: .btn .btn--info .btn--large .text-center}
+[More about HERMMES](https://hermmes.eu/){: .btn .btn--info .btn--large .text-center}
