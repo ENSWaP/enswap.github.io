@@ -23,7 +23,7 @@ gallery:
 
 **HERMMES - Holistic Education, Resilience and Media Maturity in Educational Settings**
 
-Parents, teachers and researchers working towards a development-oriented age-appropriate approach to ICT and media education
+*Parents, teachers and researchers working towards a development-oriented age-appropriate approach to ICT and media education*
 
 On the 1st of April 2022 ENSWaP and its 10 partners embarked upon a 3‑year Erasmus+ project on media education. The goal of the HERMMES project is that at the end of their school career, pupils are media mature. They should be able to use the full range of analogue and digital media for their own education, participation in civil society and the labour market. In addition they should be able to sovereignly decide how much time to spend on digital tools, for which purpose, and always with a conscious and critical approach to the content shared or consumed through media. Thus age-appropriate and development-oriented media education only introduces digital technology in classrooms after children demonstrate media maturity and a high level of media literacy.
 
