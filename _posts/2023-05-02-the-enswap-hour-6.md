@@ -20,4 +20,4 @@ Time: **5-7 May 2023 (these dates relate to the CET timezone)**
 
 [Register now!](http://tiny.cc/ENSWaPhour6){: .btn .btn--warning .btn--large .text-center}
 
-[Download the Flyer](/assets/posts/2023/02/the-enswap-hour-5/The_ENSWaP_Hour_5_Flyer.pdf){: .btn .btn--info .btn--large .text-center}
+[Download the Flyer](/assets/posts/2023/05/the-enswap-hour-6/The_ENSWaP_Hour_6_Flyer.pdf){: .btn .btn--info .btn--large .text-center}
