@@ -15,7 +15,7 @@ categories:
 
 **How to prepare and protect?**
 
-You are invited by our team to an unconventional ENSWaP Hour. As we are just back from our conference [Communicating Our Humanity](https://enswap.org/2023/03/communicating-our-humanity-hermmes-conference/), we would like to give you the opportunity to watch the film KidsOnTech(<https://kidsontech.film>) that fits well into the topic of our event in Italy.
+You are invited by our team to an unconventional ENSWaP Hour. As we are just back from our conference Communicating Our Humanity(<https://enswap.org/2023/03/communicating-our-humanity-hermmes-conference/>), we would like to give you the opportunity to watch the film KidsOnTech(<https://kidsontech.film>) that fits well into the topic of our event in Italy.
 
 Please, register below for the viewing. The film will be accessible to watch for free from 5-7 May 2023 (these dates relate to the CET timezone), whenever you have the time within this period. You will receive the link to watch the film on 4 May. You will be able to choose from the subtitles that are available while logging in.
 
