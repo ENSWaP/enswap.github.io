@@ -1,5 +1,5 @@
 ---
-title: The ENSWaP Hour 6
+title: The ENSWaP Hour 6: KidsOnTech - the film
 date: 2023-05-02T20::00+00:00
 author: Andrej Szolgay
 excerpt: 'The topic of The ENSWaP Hour 6 is "Developing an Inner Compass to Navigate in the Digital World". Register now!'
@@ -13,9 +13,9 @@ categories:
 
 ---
 
-**Developing an Inner Compass to Navigate in the Digital World**
+**How to prepare and protect?**
 
-You are invited by our team to an unconventional ENSWaP Hour. As we are just back from our conference [Communicating Our Humanity: Media and Its (Mis)Uses](https://enswap.org/2023/03/communicating-our-humanity-hermmes-conference/), we would like to give you the opportunity to watch the film KidsOnTech that fits well into the topic of our event in Italy.
+You are invited by our team to an unconventional ENSWaP Hour. As we are just back from our conference [Communicating Our Humanity: Media and Its (Mis)Uses](https://enswap.org/2023/03/communicating-our-humanity-hermmes-conference/), we would like to give you the opportunity to watch the film [KidsOnTech](https://kidsontech.film) that fits well into the topic of our event in Italy.
 
 Please, register below for the viewing. The film will be accessible to watch for free from 5-7 May 2023 (these dates relate to the CET timezone), whenever you have the time within this period. You will receive the link to watch the film on 4 May. You will be able to choose from the subtitles that are available while logging in.
 
