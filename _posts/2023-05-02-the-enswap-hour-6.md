@@ -17,7 +17,7 @@ categories:
 
 You are invited by our team to an unconventional ENSWaP Hour. As we are just back from our conference [Communicating Our Humanity: Media and Its (Mis)Uses](https://enswap.org/2023/03/communicating-our-humanity-hermmes-conference/), we would like to give you the opportunity to watch the film [KidsOnTech](https://kidsontech.film) that fits well into the topic of our event in Italy.
 
-Please, register below for the viewing. The film will be accessible to watch for free from 5-7 May 2023 (these dates relate to the CET timezone), whenever you have the time within this period. You will receive the link to watch the film on 4 May. You will be able to choose from the subtitles that are available while logging in.
+Please, register below for the viewing. The film will be accessible to watch for free from 5-12 May 2023 (these dates relate to the CET timezone), whenever you have the time within this period. You will receive the link to watch the film on 4 May. You will be able to choose from the subtitles that are available while logging in.
 
 The film was made by parents, to remind adults living and working with children "of what we already know — instinctively, as parents — children need to experience outdoor play, work with their hands, engage with their friends, and figure out what to do when they become insufferably bored. In making this film, we wanted to explore how we might both protect and prepare our children for a rapidly changing world where turning back the clock is not an option."
 
