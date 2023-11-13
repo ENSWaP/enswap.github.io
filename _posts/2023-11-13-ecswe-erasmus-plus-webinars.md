@@ -12,8 +12,6 @@ categories:
   - Uncategorized
 ---
 
-**ECSWE ERASMUS+ webinars**
-
 <p>European Council for Steiner Waldorf Education prepared serie of three webinars to share experiences and answer questions about European funds.</p>
 
 <p>All three webinars will give you the opportunity to contribute with your experience, to ask questions, and discuss with your peers.</p>  
