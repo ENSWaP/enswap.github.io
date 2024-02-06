@@ -14,7 +14,7 @@ categories:
 
 **Future Skills for a Disrupted World - Sustainability and Regeneration**
 
-<p><strong>5 - 7 April 2024</strong><br>
+<p><strong>5 - 7 April 2024</strong><br> 
 Zagreb Waldorf School, Siget 18c, 10020 Zagreb, Croatia</p>
 
 Join us for a weekend in Zagreb to connect, learn and discover ways to thriving in a rapidly changing world.
