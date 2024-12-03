@@ -28,6 +28,6 @@ This policy-focused conference aims to bring together all stakeholders for quali
 Reserve your spot for this full day conference, an opporunity to learn and share your own experience
 with digital education enthusiasts who put children’s and young people's well-being at the heart of their work.
 
-[Register for the conference]([https://forms.gle/PDaHuKAWwUqAPkHj9](https://docs.google.com/forms/d/e/1FAIpQLSdvGxD74GqGYxcBMjBRREHmxxyYH-TAehpuCeMc2U52IxldYA/viewform)){: .btn .btn--warning .btn--large .text-center}
+[Register for the conference](https://docs.google.com/forms/d/e/1FAIpQLSdvGxD74GqGYxcBMjBRREHmxxyYH-TAehpuCeMc2U52IxldYA/viewform){: .btn .btn--warning .btn--large .text-center}
 
 [More about the event](https://hermmes.eu/event/books-or-tablets-2025/){: .btn .btn--info .btn--large .text-center}
