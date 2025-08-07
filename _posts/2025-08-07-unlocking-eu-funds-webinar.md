@@ -15,13 +15,13 @@ staff, and pupils.
 
 # **Schedule:**
 
-## Webinar 1 | Erasmus+ accreditation: Know your plans!
+### Webinar 1 | Erasmus+ accreditation: Know your plans!
 **Wednesday, 27 August 2025, 15:00–17:00 CEST**
  
-## Webinar 2 | Mobilities: Let’s travel and learn!
+### Webinar 2 | Mobilities: Let’s travel and learn!
 **Monday, 8 September 2025, 15:00–17:00 CEST**
  
-## Webinar 3 | Cooperation partnerships: Stronger together!
+### Webinar 3 | Cooperation partnerships: Stronger together!
 **Monday, 10 November 2025, 15:00–17:00 CET**
 
 Explore opportunities, improve your application process, and join a community where 
