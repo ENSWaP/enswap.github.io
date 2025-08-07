@@ -5,9 +5,6 @@ author: Andrej Szolgay
 excerpt: 'Discover the potential to get funds for enriching international experiences for your teachers, staff, and pupils.'
 permalink: /2025/08/07/unlocking-european-funds-webinar/
 layout: single
-header:
-  teaser: /assets/posts/2024/12/header.jpg
-  image: /assets/posts/2024/12/header.jpg
 categories:
   - Uncategorized
 ---
