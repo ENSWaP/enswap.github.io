@@ -1,8 +1,8 @@
 ---
-title: 'Online event: Our green stories'
+title: 'Our green stories'
 date: 2025-09-17T22::00+00:00
 author: Andrej Szolgay
-excerpt: 'Inspiring environmental action in schools through storytelling'
+excerpt: 'This online conference organized by ECSWE brings together students, teachers, parents, and changemakers to share stories of lived sustainability.'
 permalink: /2025/09/17/green-stories-event/
 layout: single
 header:
