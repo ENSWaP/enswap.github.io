@@ -27,4 +27,4 @@ Click on the registration link to get more information and further dates.
 
 [Register](https://docs.google.com/forms/d/e/1FAIpQLSeW9lyChZhqwAhLpqTLiZnO7WYrNQqlRDaB-E3bzWmUgcNSLw/viewform){: .btn .btn--warning .btn--large .text-center}
 
-[Read more](https://hermmes.eu/the-hermmes-learning-journeys/){: .btn .btn--info .btn--large .text-center}
+[Learn more](https://hermmes.eu/the-hermmes-learning-journeys/){: .btn .btn--info .btn--large .text-center}
