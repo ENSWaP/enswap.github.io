@@ -6,8 +6,8 @@ excerpt: 'The HERMMES learning journey: Learn about and discuss how to strengthe
 permalink: /2025/10/25/media-maturity-in-education/
 layout: single
 header:
-  teaser: /assets/posts/2025/10/media_maturity_in_education_header.jpg
-  image: /assets/posts/2025/10/media_maturity_in_education_header.jpg
+  teaser: /assets/posts/2025/10/media_maturity_in_education_header.png
+  image: /assets/posts/2025/10/media_maturity_in_education_header.png
 categories:
   - Uncategorized
 ---
