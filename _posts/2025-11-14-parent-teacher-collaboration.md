@@ -12,7 +12,7 @@ categories:
   - Uncategorized
 ---
 
-Would you like to strengthen the relationship between teachers and parents in your school and in your country?
+Would you like to strengthen the relationship between teachers and parents in your school and in your country?  \
 Are you looking for inspiring examples of how trust and cooperation can truly make a difference?
 
 Join us for an engaging webinar on how schools and families can work hand in hand to support children and young people. Through real-life stories, we will explore what effective cooperation looks like - from everyday communication to building long-term trust between home and school. We offer practical insights for teachers, parents, and school leaders alike.
