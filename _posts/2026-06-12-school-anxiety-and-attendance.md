@@ -1,12 +1,12 @@
 ---
-title: 'School anxiety and attendance'
+title: 'School anxiety and attendance: how to support young people who are struggling?'
 date: 2026-06-12T18::00+00:00
 author: Andrej Szolgay
-excerpt: 'How to support young people who are struggling?'
+excerpt: 'What school anxiety looks like in practice and how teachers, parents, and school leaders can respond with compassion and confidence.'
 permalink: /2026/06/12/school-anxiety-and-attendance/
 layout: single
 header:
-  teaser: /assets/posts/2026/09/school-anxiety-banner.jpg
+  teaser: /assets/posts/2026/06/school-anxiety-banner.jpg
   image: /assets/posts/2026/06/school-anxiety-header.jpg
 categories:
   - Uncategorized
