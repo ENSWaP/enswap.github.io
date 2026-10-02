@@ -6,8 +6,8 @@ excerpt: 'What can we learn from Waldorf practice?'
 permalink: /2026/10/02/teaching-life-skills/
 layout: single
 header:
-  teaser: /assets/posts/2026/10/Teaching-life-skills-banner.jpg
-  image: /assets/posts/2026/10/Teaching-life-skills-header.jpg
+  teaser: /assets/posts/2026/10/Teaching-life-skills-banner.png
+  image: /assets/posts/2026/10/Teaching-life-skills-header.png
 categories:
   - Uncategorized
 ---
