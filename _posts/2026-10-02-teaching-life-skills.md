@@ -1,6 +1,6 @@
 ---
 title: 'Teaching Life-skills'
-date: 2026-06-12T18::00+00:00
+date: 2026-10-02T18::00+00:00
 author: Andrej Szolgay
 excerpt: 'What can we learn from Waldorf practice?'
 permalink: /2026/10/02/teaching-life-skills/
